@@ -46,7 +46,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-5cxutt&theme=merko&layout=compact" alt=" logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-5cxutt&theme=gruvbox&layout=compact" alt=" logo"  />
 </div>
 
 ###
