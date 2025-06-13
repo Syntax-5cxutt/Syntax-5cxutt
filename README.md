@@ -46,8 +46,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-5cxutt&theme=dracula&layout=compact"
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-5cxutt&theme=dracula&layout=compact" alt=" logo"  />
 </div>
 
 ###
