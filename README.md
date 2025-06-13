@@ -24,7 +24,6 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
