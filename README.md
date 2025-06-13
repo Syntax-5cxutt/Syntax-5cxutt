@@ -1,24 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-###
-
-<div align="center">
-  <a href="https://discord.gg/xk4HPMJbNY" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Syntax-5cxutt from Italy <br><br>- 🔭 I’m working as complex project<br>- 📚 I'm currently learning Internal Windows <br>- ⚡ In my free time I Play on R6</p>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
