@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Syntax-5cxutt from Italy <br><br>- 🔭 I’m working as complex project<br>- 📚 I'm currently learning Internal Windows <br>- ⚡ In my free time I Play on R6</p>
 
 ###
 
